@@ -48,6 +48,7 @@
 **4. 사용 프로그램**
 
 - **Android Studio** : JAVA 코드로 프로그램 기능 구현
+
 - **Firebase** : Cloud Firestore를 데이터베이스 사용
 
 ----------
@@ -98,7 +99,6 @@
 
 - **마이페이지 화면**
   - 사용자 정보 확인 가능
-  - 프로필 사진, 게시물 수, 팔로워 / 팔로잉 수, 자신이 올린 사진
   
     <img src = "https://user-images.githubusercontent.com/55044278/94837944-d5279280-044f-11eb-93e6-73ad42dc50b9.png" height = "500px">
 
