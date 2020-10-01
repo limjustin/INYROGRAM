@@ -56,16 +56,22 @@
 
 - **시작 화면**
   - 2초동안 시작 화면 로딩하도록 구현
+  
+  - Inyrogram의 로고와 글귀가 표시
 
 <img src = "https://user-images.githubusercontent.com/55044278/94837312-0f446480-044f-11eb-9840-5b9f97d6deee.png" height = "500px">
 
 - **메인 피드 화면**
   - 사용자가 직접 작성한 글, 사용자가 팔로우한 사람의 글이 메인 피드에 표시
+  
+  - Cloud Firebase에서 데이터 로드
 
 <img src = "https://user-images.githubusercontent.com/55044278/94837603-6fd3a180-044f-11eb-98f7-3b2619e54bef.png" height = "500px">
 
 - **팔로우 / 팔로워 화면**
   - 어느 계정의 사람이 자신을 팔로우 했는지, 혹은 내가 누구를 팔로우 했는지 확인 가능
+  
+  - 팔로우 / 팔로워 수의 변화 有
 
 <img src = "https://user-images.githubusercontent.com/55044278/94837741-9a255f00-044f-11eb-8c80-a6d48dc1abc8.png" height = "500px">
 
