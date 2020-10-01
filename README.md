@@ -62,7 +62,7 @@
   
     <img src = "https://user-images.githubusercontent.com/55044278/94837312-0f446480-044f-11eb-9840-5b9f97d6deee.png" height = "500px">
 
-
+<br>
 
 - **메인 피드 화면**
   - 사용자가 직접 작성한 글, 사용자가 팔로우한 사람의 글이 메인 피드에 표시
@@ -71,16 +71,17 @@
   
     <img src = "https://user-images.githubusercontent.com/55044278/94837603-6fd3a180-044f-11eb-98f7-3b2619e54bef.png" height = "500px">
 
-
+<br>
 
 - **팔로우 / 팔로워 화면**
+  
   - 어느 계정의 사람이 자신을 팔로우 했는지, 혹은 내가 누구를 팔로우 했는지 확인 가능
   
   - 팔로우 / 팔로워 수의 변화 有
   
     <img src = "https://user-images.githubusercontent.com/55044278/94837741-9a255f00-044f-11eb-8c80-a6d48dc1abc8.png" height = "500px">
 
-
+<br>
 
 - **프로필 검색 화면**
   - 사용자의 아이디를 검색하면, 조건에 맞는 아이디가 ListView 형식으로 표시
@@ -93,9 +94,7 @@
   
     <img src = "https://user-images.githubusercontent.com/55044278/94838434-89c1b400-0450-11eb-91ab-35b58fb4ccce.png" height = "500px">
 
-
-
-
+<br>
 
 - **마이페이지 화면**
   - 사용자 정보 확인 가능
@@ -106,6 +105,9 @@
 
 6. **한계점 (구현하지 못한 기능)**
    - 좋아요 / 댓글 기능
+   
      - 확장 : 사진을 두 번 클릭해도 '좋아요'가 눌러지는 기능
+     
    - DM(Direct Message) 기능
+   
    - 알림 기능
