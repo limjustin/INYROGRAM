@@ -58,35 +58,47 @@
   - 2초동안 시작 화면 로딩하도록 구현
   
   - Inyrogram의 로고와 글귀가 표시
+  
+    <img src = "https://user-images.githubusercontent.com/55044278/94837312-0f446480-044f-11eb-9840-5b9f97d6deee.png" height = "500px">
 
-<img src = "https://user-images.githubusercontent.com/55044278/94837312-0f446480-044f-11eb-9840-5b9f97d6deee.png" height = "500px">
+
 
 - **메인 피드 화면**
   - 사용자가 직접 작성한 글, 사용자가 팔로우한 사람의 글이 메인 피드에 표시
   
   - Cloud Firebase에서 데이터 로드
+  
+    <img src = "https://user-images.githubusercontent.com/55044278/94837603-6fd3a180-044f-11eb-98f7-3b2619e54bef.png" height = "500px">
 
-<img src = "https://user-images.githubusercontent.com/55044278/94837603-6fd3a180-044f-11eb-98f7-3b2619e54bef.png" height = "500px">
+
 
 - **팔로우 / 팔로워 화면**
   - 어느 계정의 사람이 자신을 팔로우 했는지, 혹은 내가 누구를 팔로우 했는지 확인 가능
   
   - 팔로우 / 팔로워 수의 변화 有
+  
+    <img src = "https://user-images.githubusercontent.com/55044278/94837741-9a255f00-044f-11eb-8c80-a6d48dc1abc8.png" height = "500px">
 
-<img src = "https://user-images.githubusercontent.com/55044278/94837741-9a255f00-044f-11eb-8c80-a6d48dc1abc8.png" height = "500px">
+
 
 - **프로필 검색 화면**
   - 사용자의 아이디를 검색하면, 조건에 맞는 아이디가 ListView 형식으로 표시
   
   - 자신 외의 계정들은 '팔로잉' 버튼이 존재
+  
+    <img src = "https://user-images.githubusercontent.com/55044278/94837828-b6c19700-044f-11eb-82da-70f2e06414ed.png" height = "500px">
+  
+    
+  
+    <img src = "https://user-images.githubusercontent.com/55044278/94838434-89c1b400-0450-11eb-91ab-35b58fb4ccce.png" height = "500px">
 
-<img src = "https://user-images.githubusercontent.com/55044278/94837828-b6c19700-044f-11eb-82da-70f2e06414ed.png" height = "500px">
 
-<img src = "https://user-images.githubusercontent.com/55044278/94838434-89c1b400-0450-11eb-91ab-35b58fb4ccce.png" height = "500px">
+
+
 
 - **마이페이지 화면**
   - 사용자 정보 확인 가능
-  
   - 프로필 사진, 게시물 수, 팔로워 / 팔로잉 수, 자신이 올린 사진
+  
+    <img src = "https://user-images.githubusercontent.com/55044278/94837944-d5279280-044f-11eb-93e6-73ad42dc50b9.png" height = "500px">
 
-<img src = "https://user-images.githubusercontent.com/55044278/94837944-d5279280-044f-11eb-93e6-73ad42dc50b9.png" height = "500px">
