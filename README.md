@@ -88,7 +88,7 @@
   
   - 자신 외의 계정들은 '팔로잉' 버튼이 존재
   
-    <img src = "https://user-images.githubusercontent.com/55044278/94837828-b6c19700-044f-11eb-82da-70f2e06414ed.png" height = "500px">
+    <img src = "https://user-images.githubusercontent.com/55044278/94888591-97a92080-04b4-11eb-96c9-937dec5dcce9.png" height = "500px">
   
     
   
